@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=InkyPinky
+Comment=GTK theme matching the Omarchy InkyPinky palette
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=InkyPinky
+MetacityTheme=InkyPinky
+IconTheme=Papirus-Dark
+CursorTheme=default
+ButtonLayout=close,minimize,maximize:menu

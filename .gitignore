@@ -1,0 +1,5 @@
+# GTK generates nothing at runtime here, but keep the usual suspects out
+*.orig
+*.rej
+*~
+.DS_Store
